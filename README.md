@@ -1,6 +1,6 @@
 # 🗑 Trash Collection System 🗑
 
-## İsterler
+## İsterler 🗃
 
   Bir şirket akıllı atık toplama sistemleri üzerinde çalışmaktadır.  Bir cöp toplama yada atik toplama aracını en optimum ve verimli şekilde kullanarak en kısa surede tum noktalara uğranması ve n adet  seferde (doldur boşalt işlemi)  tum konteynerleri toplamış olması beklenmektedir.
   Sistemde 2 adet SQL tablosu kullanılmıştır. Container ve Vehicle tablosu. Vehicle tablosu sahada aktif olarak kullanılan araçları tutarken, Container tablosu bu araçlardan  her birinin o gun içinde uğrayıp alması gereken konteynerlerin listesini yani konumlarını tutmaktadır.
